@@ -12,6 +12,7 @@ ul {
 }
 #homeColor {
   background-color: black;
+  min-height: 100vh;
 }
 .nav-bar {
   display: flex;
